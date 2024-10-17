@@ -9,6 +9,7 @@ import dotenv from "dotenv";
 import hseRoute from "./route/hse.js";
 import equipmentRoute from "./route/equipment.js";
 
+// https://abrican-api.onrender.com
 
 const app = express();
 dotenv.config();
